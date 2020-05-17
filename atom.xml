@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://localhost:4000/"/>
-  <updated>2020-05-15T11:34:18.597Z</updated>
+  <updated>2020-05-17T08:26:49.412Z</updated>
   <id>http://localhost:4000/</id>
   
   <author>
@@ -21,19 +21,16 @@
     <link href="http://localhost:4000/2020/05/My-third-post/"/>
     <id>http://localhost:4000/2020/05/My-third-post/</id>
     <published>2020-05-15T11:07:47.000Z</published>
-    <updated>2020-05-15T11:34:18.597Z</updated>
+    <updated>2020-05-17T08:26:49.412Z</updated>
     
-    <content type="html"><![CDATA[<figure class = "left col-md-6">    ![football-field](/images/football-field.jpg)    <figcaption>        Here is our ground!    </figcaption></figure>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/football-field.jpg" alt="Our Ground"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;figure class = &quot;left col-md-6&quot;&gt;
-    ![football-field](/images/football-field.jpg)
-    &lt;figcaption&gt;
-        Here is our ground!
-    &lt;/figcap
+        &lt;p&gt;&lt;img src=&quot;/images/football-field.jpg&quot; alt=&quot;Our Ground&quot;&gt;&lt;/p&gt;
+
       
     
     </summary>
